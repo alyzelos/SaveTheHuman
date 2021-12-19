@@ -1,0 +1,2 @@
+MainPackage=E:\Alin\001 Studiu C#\Head First\app 05 2020 09 06 - univ windows ui xaml\SaveTheHumans02\SaveTheHumans\bin\ARM\Debug\SaveTheHumans_1.0.0.0_ARM_Debug.appx
+SymbolPackage=E:\Alin\001 Studiu C#\Head First\app 05 2020 09 06 - univ windows ui xaml\SaveTheHumans02\SaveTheHumans\obj\ARM\Debug\Symbols\SaveTheHumans_1.0.0.0_ARM_Debug.appxsym
